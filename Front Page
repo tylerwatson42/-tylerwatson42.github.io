@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="utf-8">
+		<title>Cutest Clothes ♥</title>
+		<style>
+		
+		
+		.dropbtn {
+    background-color: black;
+	width:1590px;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 1590px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3d3a3a;
+}
+
+	input[type=text] {
+    width: 590px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 100%;
+}
+	
+	
+		body {
+			background-color: #ffd1dc;
+		}
+
+		</style>
+    </head>
+    <body>
+	
+	<audio controls>  C:\Users\Watson HOME\Downloads
+  <source src="C:\Users\Watson HOME\Downloads\Daniel Caesar - Japanese Denim.mp3" type="audio/mpeg">
+<form>
+  <input type="text" name="search" placeholder="search products">
+</form>
+  </audio>
+
+
+	
+	
+
+	<img src="C:\Users\Watson HOME\Desktop\website\img\headers\hello1.jpg" width="1590">
+	</br>
+<div class="dropdown">
+  <button class="dropbtn">♥ OTHER ITEMS ♥</button>
+  <div class="dropdown-content">
+    <a href="Swim.html">SWIM</a>
+	<a href="Beauty.html">BEAUTY</a>
+	<a href="Sales.html">SALES</a> 
+
+  </div>
+ 
+</div>
+
+</br>
+
+	<img src="C:\Users\Watson HOME\Desktop\website\img\headers\oh.gif" width="1590">
+</br>
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok4.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok3.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok2.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok5.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok6.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok7.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\color.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\first page clothes\ok8.jpg" width="380">
+	
+    </body>
+</html>

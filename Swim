@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="utf-8">
+		<title>Cutest Clothes ♥/SWIM</title>
+		<style>
+
+		body {
+			background-color: #ffeeb7;
+		}
+
+		
+		</style>
+    </head>
+    <body>
+		
+	<audio controls>  C:\Users\Watson HOME\Downloads
+  <source src="C:\Users\Watson HOME\Desktop\website\img\music\swimmix.mp3" type="audio/mpeg">
+<form>
+  <input type="text" name="search" placeholder="search products">
+</form>
+  </audio>
+
+	<img src="C:\Users\Watson HOME\Desktop\website\img\headers\swimheader.jpg" width="1590">
+	</br>
+
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\caged.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\cut.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\fire.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\leaf.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\metallic.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\rainbow.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\star.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\swimcolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\swim\ombre.png" width="380">
+	
+    </body>
+</html>

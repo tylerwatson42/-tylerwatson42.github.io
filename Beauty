@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="utf-8">
+		<title>Cutest Clothes ♥/BEAUTY</title>
+		<style>
+		
+		body {
+			background-color: #c0ff7c;
+		}
+
+
+		</style>
+    </head>
+    <body>
+		
+	<audio controls>  C:\Users\Watson HOME\Downloads
+  <source src="C:\Users\Watson HOME\Desktop\website\img\music\beautymix.mp3" type="audio/mpeg">
+<form>
+  <input type="text" name="search" placeholder="search products">
+</form>
+  </audio>
+
+	<img src="C:\Users\Watson HOME\Desktop\website\img\headers\beautyheader.jpg" width="1590">
+	</br>
+	
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\bag.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\cap.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\chain.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\choker.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\glasses.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\harness.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\hoops.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\beautycolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\beauty\jelly.jpg" width="380">
+
+	
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="utf-8">
+		<title>Cutest Clothes ♥/SALES</title>
+		<style>
+		
+		body {
+			background-color: #f2d9fc;
+		}
+
+
+		</style>
+    </head>
+    <body>
+		
+	<audio controls>  C:\Users\Watson HOME\Downloads
+  <source src="C:\Users\Watson HOME\Desktop\website\img\music\salesmix.mp3" type="audio/mpeg">
+<form>
+  <input type="text" name="search" placeholder="search products">
+</form>
+  </audio>
+
+	<img src="C:\Users\Watson HOME\Desktop\website\img\headers\salesheader.jpg" width="1590">
+	</br>
+	
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\bag.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\bodysuit.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\boots.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\choker.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="1">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\dress.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\makeup.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\pants.jpg" width="380">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\freespace\salescolor.PNG" width="5.25">
+	<img src="C:\Users\Watson HOME\Desktop\website\img\sales\shirt.jpg" width="380">
+
+	
+    </body>
+</html>
